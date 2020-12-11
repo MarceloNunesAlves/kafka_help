@@ -7,10 +7,10 @@ mvn archetype:generate \
     -DarchetypeGroupId=org.apache.kafka \
     -DarchetypeArtifactId=streams-quickstart-java \
     -DarchetypeVersion=1.1.0 \
-    -DgroupId=br.com.flexvision \
+    -DgroupId=br.com.corp \
     -DartifactId=stream-netflow \
     -Dversion=0.1 \
-    -Dpackage=br.com.flexvision
+    -Dpackage=br.com.corp
 ```
 
 -> Executar o Kafka
